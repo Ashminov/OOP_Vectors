@@ -1,0 +1,17 @@
+###
+Try to read data from text file:
+
+##
+on the first line you have to input number of object:
+1-Point
+2-Vector
+3-Line
+4-Segment
+5-Triangle
+##
+on the second line you have to input values  for object.
+##
+on the third line you have to input number of operation.
+##
+on the fourth line will be all the additional objects that are necessary for the operation.
+
